@@ -1,3 +1,3 @@
-# CodeAlpha_Calculator_ArnabDey
+# Simple-Calculator
 
 A simple calculator using HTML, CSS and JavaScript
